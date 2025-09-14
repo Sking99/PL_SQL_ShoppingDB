@@ -13,13 +13,13 @@
 
 **Tables Created**
 
-  product → stores product details (SKU, name, price, stock, created timestamp).
-  customer → stores customer information and loyalty points.
-  cart → represents a shopping cart tied to a customer with expiry.
-  cart_item → items added into a cart with product references.
-  order → customer orders, including subtotal, discounts, and totals.
-  order_item → line items for each order with quantity and price.
-  audit_log → records system activity for debugging and auditing.
+  - product → stores product details (SKU, name, price, stock, created timestamp).
+  - customer → stores customer information and loyalty points.
+  - cart → represents a shopping cart tied to a customer with expiry.
+  - cart_item → items added into a cart with product references.
+  - order → customer orders, including subtotal, discounts, and totals.
+  - order_item → line items for each order with quantity and price.
+  - audit_log → records system activity for debugging and auditing.
 
 **🚀 Features**
 
